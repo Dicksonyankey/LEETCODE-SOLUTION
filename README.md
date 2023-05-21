@@ -17,7 +17,7 @@ Test cases for validating solutions.
 To get started, simply clone the repository, navigate to the problem you're interested in, and dive in. You're just a git clone away from leveling up your coding skills!
 
 
-git clone https://github.com/Dicksonyankey/leetcode_solutions.git
+git clone https://github.com/Dicksonyankey/LEETCODE-SOLUTION.git
 
 :handshake: Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check issues page. You can also take a look at the contributing guide.
